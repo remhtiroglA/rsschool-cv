@@ -9,7 +9,8 @@ lazizbekexclusive@gmail.com
 Right now, mastering a particular programming language and working with it at a professional level is **very important**.
 4. As of now, I have intermediate skills of C++  and basics of HTML5 and CSS.
 5.  This a project I created for the final exam of Data Structures course.
-```
+
+```c++
 {
   // Lazizbek Kahramonov assigment Data  Structure
 
@@ -318,8 +319,8 @@ int main(){
 
 
 }
-```
 
+```
 6. I had quite a few project at the University. Here are some:
    * Console application for reserving and cancelling a flight ticket
    * Console application to store and manage a list of students in a file
